@@ -38,9 +38,9 @@ exemplo lista numerada
 
  ### caixas de check
 
- - [ ] fazer a tela de login
- - [ ]criar a tela de calculo
- - [ ]criar a tela de historico
+ - [x] fazer a tela de login
+ - [x]criar a tela de calculo
+ - [x]criar a tela de historico
 
  | coluna 1 | coluna 2 |
  | -------- | -------- |
